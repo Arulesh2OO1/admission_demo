@@ -1,0 +1,78 @@
+.h1{
+	background-color: #3B59FD;
+	height: 105px;
+	width: 100%;
+}
+.h2{
+	width: 70%;
+	height: 50px;
+	text-align: center;
+	background-color: #FC9F1A;
+	margin-left: 15%;
+	margin-right: 30%;
+	border-radius: 10px;
+	padding-top: 10px;
+	padding-bottom: 5px;
+	color: ghostwhite;
+}
+#imhover{
+	height: 300px;
+	background-image: url('bg1.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	text-align: center;
+	color: ghostwhite;
+	font-size: 70px;
+	padding-top: 20px;
+}
+.container1 table{
+	margin-left: 160px;
+	width: 100%;
+	height: 538px;
+	border-spacing: 0px;
+}
+.container1 table th,td{
+	border: 0.5px solid #D0D3D4;
+	
+	padding: 10px 10px;
+}
+.container1{
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	background-color: ghostwhite;
+	align-items: stretch;
+}
+.container1>div{
+	width: 7000px;
+	background-color: ghostwhite;
+	
+}
+#bot{
+	height: 500px;
+	background-image: url('gate.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+
+}
+#bot div ul a{
+	text-decoration: none;
+	color: ghostwhite;
+}
+
+#bot div ul{
+	list-style-type: none;
+}
+.container2{
+	display: flex;
+	align-items: stretch;
+	
+
+}
+.container2>div{
+	width: 100%;
+	margin: 10px;
+
+}
